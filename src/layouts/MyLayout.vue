@@ -39,9 +39,17 @@
             <q-item-side icon="people" />
             <q-item-main label="Some of my Clients" />
           </q-item>
-          <q-item to="/porfolio">
+          <q-item to="/portfolio">
             <q-item-side icon="perm_media" />
-            <q-item-main label="Porfolio" />
+            <q-item-main label="Portfolio" />
+          </q-item>
+           <q-item to="/work-experience">
+            <q-item-side icon="work" />
+            <q-item-main label="Relevant jobs" />
+          </q-item>
+          <q-item to="/experiments">
+            <q-item-side icon="local_cafe" />
+            <q-item-main label="Experiments" />
           </q-item>
           <q-item @click.native="openURL('mailto:federicodib@gmail.com')">
           <q-item-side icon="mail" />

@@ -3,6 +3,8 @@ import Portfolio from 'pages/Portfolio'
 import ContactMe from 'pages/ContactMe'
 import Clients from 'pages/Clients'
 import AboutMe from 'pages/AboutMe'
+import Experiments from 'pages/Experiments'
+import WorkExperience from 'pages/WorkExperience'
 const routes = [
   {
     path: '/',
@@ -10,20 +12,28 @@ const routes = [
     children: [
       { path: '', component: () => import('pages/Index.vue') },
       {
-        path: '/porfolio', // here it is, route /user/profile
-        component: Portfolio // we reference /src/pages/Profile.vue imported above
+        path: '/portfolio',
+        component: Portfolio
       },
       {
-        path: '/contact-me', // here it is, route /user/profile
-        component: ContactMe // we reference /src/pages/Profile.vue imported above
+        path: '/contact-me',
+        component: ContactMe
       },
       {
-        path: '/clients', // here it is, route /user/profile
-        component: Clients // we reference /src/pages/Profile.vue imported above
+        path: '/work-experience',
+        component: WorkExperience
       },
       {
-        path: '/about-me', // here it is, route /user/profile
-        component: AboutMe // we reference /src/pages/Profile.vue imported above
+        path: '/clients',
+        component: Clients
+      },
+      {
+        path: '/experiments',
+        component: Experiments
+      },
+      {
+        path: '/about-me',
+        component: AboutMe
       }
     ]
   }

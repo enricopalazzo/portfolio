@@ -1,7 +1,7 @@
 <template>
   <q-page padding>
 <h1>About me <q-icon name="person" style="font-size:0.5em; margin-top:-1em" /></h1>
-<h2>Project Manager, Website Consultant, Web Designer & Developer</h2>
+<h2>Project Manager, Web Consultant, Web Designer & Developer</h2>
 
 <p>I have a long and fruitful experience making the Web a better place for users and admins alike.</p>
 
