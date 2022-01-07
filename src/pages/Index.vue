@@ -19,20 +19,8 @@
 </ul>
 <h3>Skills, Experience & other keywords:</h3>
 <ul>
-  <li>
-<strong>Web:</strong> HTML/HTML5/XHTML, XML, PHP, CSS/CSS3, Less, Sass, Stylus, AJAX, Javacript, JSON, JQuery, Vue.js, React.js, Polymer, MVC, Node.js</li>
-  <li>
-<strong>Frameworks & CMS:</strong> CodeIgniter, Wordpress, Joomla, Drupal.</li>
-<li>
-<strong>Databases: </strong> MySQL, Postgres, SQLite, MS SQL, MongoDB</li>
-<li>
-<strong>Web Servers: </strong> Apache.</li>
-<li>
-<strong>Versions control:</strong> GIT
-</li>
-<li>
-<strong>Methodologies:</strong>Agile, Traditional Cascade, WITJDTDT-ASAP
-</li>
+ <li><strong>Web:</strong> HTML/HTML5/XHTML, XML, PHP, CSS/CSS3, Less, Sass, Stylus, AJAX, Javacript, JSON, JQuery, Vue.js, React.js, TypeScript, Mobx, Redux, Polymer, MVC, Node.js</li>  <li><strong>Frameworks & CMS:</strong> Quasar Framework, Material UI, Bootstrap, CodeIgniter, Wordpress, Joomla, Drupal.</li><li><strong>Databases: </strong> MySQL, Postgres, SQLite, MS SQL, MongoDB</li>
+<li><strong>Versions control:</strong> GIT</li><li><strong>Methodologies:</strong> Agile, SCRUM, Traditional Cascade</li>
 </ul></q-page>
 </template>
 
